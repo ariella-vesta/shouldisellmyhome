@@ -1,0 +1,5 @@
+{
+  "name": "Should I Sell My Home?",
+  "description": "An app for homeowners to analyze the financial implications of selling a home with a low-interest rate to purchase a new one. It compares current vs. new monthly payments, debt-to-income ratios, and provides an AI-powered analysis to help with the decision-making process.",
+  "requestFramePermissions": []
+}
